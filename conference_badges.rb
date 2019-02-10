@@ -14,3 +14,5 @@ def batch_badge_creator(person)
   end
 end
   
+def assign_room()
+end
