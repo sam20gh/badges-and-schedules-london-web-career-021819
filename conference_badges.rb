@@ -21,3 +21,8 @@ def assign_room(attendees)
   end
   new_array
 end
+
+
+def assign_room()
+  
+end
