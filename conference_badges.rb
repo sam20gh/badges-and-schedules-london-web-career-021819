@@ -17,5 +17,5 @@ end
 def assign_room()
   
   
-  puts "Hello, _____! You'll be assigned to room _____!"
+  puts "Hello, #{}! You'll be assigned to room #{}!"
 end
