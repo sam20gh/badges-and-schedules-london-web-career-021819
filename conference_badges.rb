@@ -14,7 +14,9 @@ def batch_badge_creator(person)
   end
 end
   
-def assign_room()
+def assign_room(attendees)
+  new_array = []
+  attendees.each_with_index
   
   
   puts "Hello, #{}! You'll be assigned to room #{}!"
